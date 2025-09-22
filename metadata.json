@@ -1,0 +1,5 @@
+{
+  "name": "AI Photo Pixarizer",
+  "description": "An AI-powered photo editing application that transforms your pictures into a vibrant, 3D Pixar-style. Upload a photo, and let the AI reimagine it with whimsical charm and expressive character.",
+  "requestFramePermissions": []
+}
